@@ -8,3 +8,6 @@ When you use yooniksbypass2 and yooniksbypass it should be low like from 500 to 
 
 You have to always use fresh socks.txt file (it really matters, otherwise the power can be weak because of slow crash connections)
 The current socks.txt file is from 21.01.2020 22:03 CEST timezone (very fresh).
+
+
+This script created Wonderlands.ge and WLS Studios
